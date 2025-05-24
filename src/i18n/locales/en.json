@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Your Trusted Computer Solutions Partner",
+    "subtitle": "Sales • Service • Support",
+    "description": "From hardware repairs to software solutions, Andre Komputer delivers expertise you can count on. Serving businesses and individuals with reliable tech services since 2010.",
+    "cta": {
+      "contact": "Get in Touch",
+      "services": "Explore Services"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide a comprehensive range of IT solutions to meet all your tech needs",
+    "items": {
+      "repair": {
+        "title": "Computer & Laptop Repair",
+        "description": "Professional repair services for all brands of computers and laptops with quick turnaround time."
+      },
+      "hardware": {
+        "title": "Hardware Installation",
+        "description": "Expert installation of computer components, upgrades, and custom-built systems."
+      },
+      "printer": {
+        "title": "Printer Services",
+        "description": "Comprehensive printer repair, maintenance, and installation services for all major brands."
+      },
+      "accessories": {
+        "title": "IT Accessories",
+        "description": "Wide range of genuine IT accessories including keyboards, mice, cables, and storage devices."
+      }
+    },
+    "viewAll": "View All Services"
+  },
+  "about": {
+    "title": "About Andre Komputer",
+    "subtitle": "Established in 2010, we've been providing top-tier IT solutions to businesses and individuals for over a decade.",
+    "description": "Andre Komputer started as a small computer repair shop and has grown into a comprehensive IT service provider. Our mission is to deliver reliable, efficient, and affordable technology solutions that empower our clients.",
+    "features": {
+      "experience": "10+ years of experience in IT solutions",
+      "certified": "Certified technicians and experts",
+      "genuine": "Genuine parts and accessories",
+      "turnaround": "Quick turnaround time",
+      "pricing": "Affordable pricing",
+      "support": "Post-service support"
+    },
+    "cta": "Learn More About Us"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Don't just take our word for it. Here's what our clients have to say about our services."
+  },
+  "cta": {
+    "title": "Need Tech Support?",
+    "subtitle": "Our team of experts is ready to help solve your computer issues. Get in touch today for fast, reliable service.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "service": "Service Needed",
+      "submit": "Submit Request"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "address": "123 Tech Plaza, Digital Avenue, Jakarta, Indonesia",
+    "hours": "Mon - Fri: 9am - 6pm, Sat: 9am - 3pm",
+    "copyright": "© 2024 Andre Komputer. All rights reserved."
+  }
+}

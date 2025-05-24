@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "services": "Layanan",
+    "gallery": "Galeri",
+    "blog": "Blog",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Partner Solusi Komputer Terpercaya Anda",
+    "subtitle": "Penjualan • Servis • Dukungan",
+    "description": "Dari perbaikan hardware hingga solusi software, Andre Komputer memberikan layanan terbaik yang bisa Anda andalkan. Melayani bisnis dan individu dengan layanan teknologi terpercaya sejak 2010.",
+    "cta": {
+      "contact": "Hubungi Kami",
+      "services": "Lihat Layanan"
+    }
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "subtitle": "Kami menyediakan berbagai layanan IT untuk memenuhi semua kebutuhan teknologi Anda",
+    "items": {
+      "repair": {
+        "title": "Servis Komputer & Laptop",
+        "description": "Layanan perbaikan profesional untuk semua merek komputer dan laptop dengan waktu pengerjaan cepat."
+      },
+      "hardware": {
+        "title": "Instalasi Hardware",
+        "description": "Instalasi komponen komputer secara profesional dan upgrade sistem untuk performa optimal."
+      },
+      "printer": {
+        "title": "Layanan Printer",
+        "description": "Layanan printer lengkap, perawatan, dan instalasi untuk semua merek utama."
+      },
+      "accessories": {
+        "title": "Aksesoris IT",
+        "description": "Berbagai aksesoris IT asli termasuk keyboard, mouse, kabel, dan perangkat penyimpanan."
+      }
+    },
+    "viewAll": "Lihat Semua Layanan"
+  },
+  "about": {
+    "title": "Tentang Andre Komputer",
+    "subtitle": "Berdiri sejak 2010, kami telah menyediakan solusi IT terbaik untuk bisnis dan individu selama lebih dari satu dekade.",
+    "description": "Andre Komputer dimulai sebagai toko servis komputer kecil dan telah berkembang menjadi penyedia layanan IT komprehensif. Misi kami adalah memberikan solusi teknologi yang andal, efisien, dan terjangkau yang memberdayakan klien kami.",
+    "features": {
+      "experience": "10+ tahun pengalaman di solusi IT",
+      "certified": "Teknisi dan ahli bersertifikat",
+      "genuine": "Suku cadang dan aksesoris asli",
+      "turnaround": "Waktu pengerjaan cepat",
+      "pricing": "Harga terjangkau",
+      "support": "Dukungan pasca layanan"
+    },
+    "cta": "Pelajari Lebih Lanjut"
+  },
+  "testimonials": {
+    "title": "Apa Kata Klien Kami",
+    "subtitle": "Jangan hanya percaya kata-kata kami. Ini yang dikatakan klien tentang layanan kami."
+  },
+  "cta": {
+    "title": "Butuh Bantuan Teknis?",
+    "subtitle": "Tim ahli kami siap membantu menyelesaikan masalah komputer Anda. Hubungi kami hari ini untuk layanan cepat dan andal.",
+    "form": {
+      "name": "Nama Anda",
+      "email": "Alamat Email",
+      "service": "Layanan yang Dibutuhkan",
+      "submit": "Kirim Permintaan"
+    }
+  },
+  "footer": {
+    "quickLinks": "Tautan Cepat",
+    "services": "Layanan Kami",
+    "contact": "Hubungi Kami",
+    "address": "123 Tech Plaza, Digital Avenue, Jakarta, Indonesia",
+    "hours": "Senin - Jumat: 9:00 - 18:00, Sabtu: 9:00 - 15:00",
+    "copyright": "© 2024 Andre Komputer. Hak Cipta Dilindungi."
+  }
+}
